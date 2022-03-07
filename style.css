@@ -1,0 +1,105 @@
+.p-b{
+    width:70px;
+}
+.dood{
+    background-color: #fff;
+}
+.dbns{
+    margin-top: 200px;
+}
+.dis{
+    color:#fff;
+    background-color: #8490ff;
+}
+.bank{
+    background-color:#f9f9ff;
+}
+
+.dbnsn{
+    margin-top: 100px;
+}
+.happy{
+    background-color:#8490ff ;
+    color: #fff;
+}
+.hpp{
+    background-color: #fff;
+}
+
+.hp{
+    display: inline-block;
+    padding: 30px;
+    border-radius: 50%;
+    background-color: #f9f9ff;
+}
+.gp{
+    list-style: none;
+    line-height: 30px;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+     /* box jason */
+
+.post{
+    position: relative;
+}
+
+.boxlin{
+    width: 90px;
+    position: absolute;
+    top: -70px;
+    left: 21px;
+}
+.div-jason{
+    box-shadow:1px 8px 17px -7px black ;
+}
+
+
+          /* using list */
+
+
+
+
+     /* appp */
+     .app{
+         background-color: #f9f9ff;
+         margin-bottom: 60px;
+     }
+
+
+
+              /* contact-section */
+
+
+    .contact{
+        background-color: #f9f9ff;
+    }
+    .bmo{
+        background-color: #fff;
+    }
+
+    .contact-ul{
+        list-style: none;
+        margin-top: 70px;
+    }
+    .colm{
+        background-color: #0e9fb6;
+        color: #fff;
+        padding: 10px 20px;
+        border-radius: 5px;
+        border: none;
+    }
+
+         /* footer */
+
+         
+.fott{
+    background-color: #000;
+    color: #fff;
+    padding: 30px 0;
+
+
+1px 8px 17px -7
